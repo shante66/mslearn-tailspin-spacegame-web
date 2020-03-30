@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TechDataPOC/Space%20Game%20-web%20-pipeline/_apis/build/status/shante66.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/TechDataPOC/Space%20Game%20-web%20-pipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
